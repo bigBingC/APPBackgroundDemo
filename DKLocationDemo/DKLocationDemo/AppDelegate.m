@@ -23,7 +23,7 @@
 }
 
 - (void)initBugly {
-    NSString *buglyID = @"94b8d94f25";
+    NSString *buglyID = @"buglyID";
     [Bugly startWithAppId:buglyID];
 }
 
