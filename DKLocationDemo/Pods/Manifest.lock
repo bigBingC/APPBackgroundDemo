@@ -1,0 +1,20 @@
+PODS:
+  - BMKLocationKit (1.5.0)
+  - Bugly (2.5.0)
+
+DEPENDENCIES:
+  - BMKLocationKit
+  - Bugly
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - BMKLocationKit
+    - Bugly
+
+SPEC CHECKSUMS:
+  BMKLocationKit: 40d267478acd8704ddebd0e9deaddc727b13df9f
+  Bugly: 3ca9f255c01025582df26f9222893b383c7e4b4e
+
+PODFILE CHECKSUM: 7de19275bde15f484d514335f571ba86f4ea5bd3
+
+COCOAPODS: 1.6.1

@@ -1,0 +1,24 @@
+{
+  "name": "DKCoreLocation",
+  "version": "0.0.1",
+  "summary": "Location Util Classes",
+  "homepage": "https://github.com/iosGroup/DKCoreLocation",
+  "license": "MIT",
+  "authors": {
+    "Gujitao": "gujitao@dankegongyu.com"
+  },
+  "platforms": {
+    "ios": "6.0"
+  },
+  "source": {
+    "git": "https://gitlab.danke.life/iosGroup/DKCoreLocation.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "Class/**/*.{h,m}",
+  "requires_arc": true,
+  "dependencies": {
+    "BaiduMapKit": [
+      "~>3.4.4"
+    ]
+  }
+}
